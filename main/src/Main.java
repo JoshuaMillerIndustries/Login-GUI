@@ -7,7 +7,7 @@ public class Main {
 
         frame.setVisible(true); // making sure frame is visible
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // program will end when window closes
-        frame.setSize(720,720); // setting height and with for window
+        frame.setSize(820,720); // setting height and with for window
         frame.setTitle("Cyberdyne Systems Employee Portal ");
 
 
